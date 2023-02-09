@@ -1,0 +1,44 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+.intro-messages {
+    background-image: url("https://www.ericawakerlywallpaper.com/wp-content/uploads/2018/05/Windmill-white-blue-1.jpg");
+    max-width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.learn-more-btn {
+    border-radius: 20px;
+    background-color: #3535ec;
+    color: white;
+
+}
+
+.content {
+    padding: 73px 180px;
+}
+
+.about-parking {
+    background-image: url("https://assets-prd.raicore.com/-/media/project/rai-amsterdam/intertraffic/news/2019/itd_sump_header.png?h=400&iar=0&w=1100&rev=1ec02aa0c65942bca25c22824867f94c&extension=webp&hash=E36F374E0EB7C6B86FE09B14FAE3CE46");
+    height: 330px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mess-content{
+    background-color: white;
+    width: 35%;
+    padding: 30px 50px;
+    margin-left: 50px;
+}
+.parking-work{
+    text-align: center;
+    line-height: 1;
+    margin: 50px 40px;
+}

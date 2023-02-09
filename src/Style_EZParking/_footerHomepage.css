@@ -1,0 +1,42 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none
+}
+
+.footer {
+    color: white;
+    font-family: Inter;
+    background-color: #2B2B39;
+    line-height: 2.5;
+    width: 100%;
+    padding: 40px 50px;
+}
+.col-sm{
+    display: inline-block;
+}
+.imageLogoFooter {
+    height: 46px;
+    width: 45%;
+    margin-top: 10px;
+
+}
+.footer-bot{
+    color: white;
+    text-align: center;
+    background-color: #20202D;
+    width: 100%;
+
+}
+.bot{
+    margin-top: 15px;
+}
